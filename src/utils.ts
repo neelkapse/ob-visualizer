@@ -1,7 +1,6 @@
 import { Card, Deck, InstallableCard } from './types';
 
 const INSTALLABLE_TYPES = [
-  'agenda',
   'asset',
   'ice',
   'upgrade',
